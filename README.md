@@ -1,1 +1,1 @@
-# kmn - ae quan dz
+# knm - ae quan dz
