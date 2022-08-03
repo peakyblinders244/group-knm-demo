@@ -29,6 +29,13 @@
   line-height: 2;
 }
 
+.member-item li a {
+  font-size: 26px;
+  margin-left: 25px;
+  color: rgb(34, 110, 147);
+  line-height: 2;
+}
+
 .intro-members img {
   width: 400px;
   height: auto;
